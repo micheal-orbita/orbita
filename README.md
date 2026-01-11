@@ -1,29 +1,37 @@
-# ORBITA – Space-Tech Flagship Project
+# ORBITA-HGX – Hybrid Glide Rocket Project
 
 
-**Founder & Lead Developer:** Mine-Micheal Oleagbor  
+**Founder & Lead Developer:** Micheal Oleagbor  
 **Grade:** 11th Grade  
 **GitHub Username:** micheal-orbita  
 
 
-## About ORBITA
-ORBITA is a high school flagship project exploring orbital mechanics and battery-powered rocket propulsion. The goal is to research how rockets impact the environment and design simulations to improve efficiency. The project includes Python simulations, trajectory calculations, and detailed documentation.
+## About ORBITA-HGX
+ORBITA-HGX is a high school flagship project exploring **hybrid rocket propulsion and glide-assisted atmospheric flight**. The project investigates how combining **controlled chemical thrust** with **aerodynamic lift** can reduce fuel consumption, minimize environmental impact, and improve vehicle reusability. The focus is on **simulating trajectories, glide phases, and propulsion optimization**.
 
 
 ## Features & Goals
-- Simulations of rocket trajectories and orbits  
-- Battery propulsion experimentation and calculations  
-- Environmental impact assessment of rocket launches  
-- Documentation of processes, results, and learnings  
+- Compare **pure rocket trajectories** vs **hybrid rocket + glide trajectories**  
+- Analyze **fuel efficiency and flight time**  
+- Explore **aerodynamic lift-to-drag ratios** for glide-assisted flight  
+- Document all findings, calculations, and Python simulations  
 
 
 ## Skills Developed
-- Physics & orbital mechanics  
-- Electrical engineering basics (battery propulsion concepts)  
-- Python programming for simulations  
+- Physics & orbital mechanics (trajectories, forces, motion equations)  
+- Python programming for simulations and plotting  
+- Aerodynamics & lift-to-drag analysis  
 - Data analysis and visualization  
-- Project documentation and version control  
+- Project documentation and GitHub version control
+  
+
+## How to Start / Use (Coming Soon)
+*Simulations are under development. This section will provide instructions on how to run Python scripts and explore ORBITA-HGX trajectories.*
 
 
-## How to Use / Run Simulations
-*Simulations coming soon. This section will guide users on running ORBITA simulations once available.*
+## Contact
+- GitHub: [https://github.com/micheal-orbita](https://github.com/micheal-orbita)  
+- Email: oleagboraugusta@gmail.com
+
+
+*All calculations, designs, and simulations are created and maintained by Micheal Oleagbor, 11th Grade.*
