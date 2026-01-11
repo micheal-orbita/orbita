@@ -1,39 +1,31 @@
-# Coding Club – Bright Rainbow High School
+# ORBITA – Space-Tech Flagship Project
 
 
-**Founder:** Micheal Oleagbor  
+**Founder & Lead Developer:** Mine-Micheal Oleagbor  
 **Grade:** 11th Grade  
 **GitHub Username:** micheal-orbita  
 
 
-## About the Club
-The Coding Club is a student-led initiative teaching Python programming to school peers. Members build mini-projects like a school result-checking app and grade analysis tool, developing problem-solving, collaboration, and coding skills. The club also encourages creativity and mentorship among students.
+## About ORBITA
+ORBITA is a high school flagship project exploring orbital mechanics and battery-powered rocket propulsion. The goal is to research how rockets impact the environment and design simulations to improve efficiency. The project includes Python simulations, trajectory calculations, and detailed documentation.
 
 
-## Projects & Activities
-- **Python Lessons:** Weekly sessions introducing Python basics, data types, loops, and functions  
-- **Mini Projects:**  
-  - School Result-Checking App  
-  - Grade Analysis Tool  
-- **Club Management:** Planning sessions, mentoring juniors, documenting progress on GitHub  
+## Features & Goals
+- Simulations of rocket trajectories and orbits  
+- Battery propulsion experimentation and calculations  
+- Environmental impact assessment of rocket launches  
+- Documentation of processes, results, and learnings  
 
 
 ## Skills Developed
-- Python programming  
-- Problem-solving and algorithmic thinking  
-- Collaboration and teaching  
-- Version control using GitHub  
+- Physics & orbital mechanics  
+- Electrical engineering basics (battery propulsion concepts)  
+- Python programming for simulations  
+- Data analysis and visualization  
+- Project documentation and version control  
 
 
-## How to Contribute
-- Join the club or follow along with the projects  
-- Submit Python scripts via pull requests  
-- Share feedback and improvements  
-
-
-## Contact
-- Email: oleagboraugusta@gmail.com 
-- GitHub: [https://github.com/micheal-orbita](https://github.com/micheal-orbita)
-
-
-*All projects documented here are designed and maintained by Micheal Oleagbor.*
+## How to Use / Run Simulations
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/micheal-orbita/orbita.git
