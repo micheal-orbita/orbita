@@ -26,6 +26,4 @@ ORBITA is a high school flagship project exploring orbital mechanics and battery
 
 
 ## How to Use / Run Simulations
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/micheal-orbita/orbita.git
+*Simulations coming soon. This section will guide users on running ORBITA simulations once available.*
