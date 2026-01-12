@@ -10,12 +10,13 @@
 ORBITA-HGX is a high school flagship project exploring **hybrid rocket propulsion and glide-assisted atmospheric flight**. The project investigates how combining **controlled chemical thrust** with **aerodynamic lift** can reduce fuel consumption, minimize environmental impact, and improve vehicle reusability. The focus is on **simulating trajectories, glide phases, and propulsion optimization**.
 
 
-## Features & Goals
-- Compare **pure rocket trajectories** vs **hybrid rocket + glide trajectories**  
-- Analyze **fuel efficiency and flight time**  
-- Explore **aerodynamic lift-to-drag ratios** for glide-assisted flight  
-- Document all findings, calculations, and Python simulations  
-
+## Objectives
+- Simulate vertical motion under gravity
+- Add chemical propulsion to study acceleration and altitude gain
+- Introduce aerodynamic forces (drag and lift) for controlled flight
+- Plot trajectories and analyze motion
+- Build foundational Python and physics skills
+  
 
 ## Skills Developed
 - Physics & orbital mechanics (trajectories, forces, motion equations)  
@@ -23,6 +24,13 @@ ORBITA-HGX is a high school flagship project exploring **hybrid rocket propulsio
 - Aerodynamics & lift-to-drag analysis  
 - Data analysis and visualization  
 - Project documentation and GitHub version control
+
+
+## Long-Term Goals
+- Implement simple simulations combining thrust, drag, and lift
+- Document each simulation on GitHub
+- Develop a progressive understanding of physics and aerospace principles
+- Showcase a fully functioning, physics-based hybrid rocket simulation
   
 
 ## How to Start / Use (Coming Soon)
